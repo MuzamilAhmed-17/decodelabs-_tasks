@@ -195,10 +195,18 @@ Business actions:
 * Silhouette Score
 * Customer Persona Analysis
 
+## Project Structure
+
+```text
+Task_3/
+│
+├── Task_3.ipynb
+├── marketing_campaign.csv
+└── README.md
+```
 
 ## Conclusion
 
 This project demonstrates how unsupervised learning can be used to transform raw customer data into meaningful customer segments.
 
 By combining data preprocessing, feature scaling, PCA, and K-Means clustering, four distinct customer personas were identified. These segments provide a foundation for targeted marketing strategies, personalized offers, customer retention initiatives, and improved business decision-making.
-
